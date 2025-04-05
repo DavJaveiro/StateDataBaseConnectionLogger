@@ -1,6 +1,6 @@
-## 📄 `StateDataBaseConnectionLogger`
+## `StateDataBaseConnectionLogger` 
+<img src="https://github.com/user-attachments/assets/0729cb61-649a-432a-ae96-d5fe98ac8cab" alt="Logo do DataSource" width="150"/>
 
-### 📌 Objetivo
 
 A classe `StateDataBaseConnectionLogger` tem como objetivo **verificar se a conexão com o banco de dados foi estabelecida com sucesso** logo após a aplicação Spring Boot estar pronta para uso. Ela utiliza o `DataSource` configurado via `application.properties` para testar a conexão e loga o resultado no console.
 
